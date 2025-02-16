@@ -1,8 +1,8 @@
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte do aprendizado no Bootcamp de Machine Learning da BairesDev.
 
-Aluno: Marcello S Bastos - "Mike Niner Bravog"
-Bootcamp: BairesDev - Machine Learning Practitioner - Fevereiro de 2025
+- Aluno: Marcello S Bastos - "Mike Niner Bravog"
+- Bootcamp: BairesDev - Machine Learning Practitioner - Fevereiro de 2025
 
 # Cálculo de Métricas de Classificação com Matriz de Confusão
 
